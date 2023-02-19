@@ -1,0 +1,1 @@
+This is a chapter2 text file for the story board added to learn about the git.
